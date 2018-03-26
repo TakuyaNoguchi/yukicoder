@@ -1,0 +1,3 @@
+ONE_EXPECTED_VALUE = 3.5
+
+puts ONE_EXPECTED_VALUE * gets.to_i
