@@ -1,0 +1,2 @@
+GAME_COUNT = 1_000
+puts GAME_COUNT / 2
