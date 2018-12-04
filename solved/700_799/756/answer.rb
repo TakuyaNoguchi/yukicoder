@@ -1,0 +1,1 @@
+puts 1.upto(55).to_a.join[gets.to_i - 1]
