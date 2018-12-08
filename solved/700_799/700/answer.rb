@@ -1,0 +1,1 @@
+puts readlines.join.match?(/LOVE/) ? 'YES' : 'NO'
