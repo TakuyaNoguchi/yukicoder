@@ -1,0 +1,10 @@
+4 9
+number
+reverse
+skip
+reverse
+drawtwo
+drawfour
+drawfour
+skip
+number
